@@ -1,2 +1,0 @@
-<h1>Image compression</h1>
-<p>Image compression using K-means clustering reduces file size while maintaining visual quality by clustering pixels into groups and representing each group by its mean color. This technique reduces the number of colors in the image, thus decreasing its size but preserving its overall appearance. The process involves using the OpenCV library for reading and saving images, and NumPy and Matplotlib for array creation and plotting.</p>
